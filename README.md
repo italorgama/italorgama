@@ -11,7 +11,7 @@
 
 **Aplicações e Dados**
 
-  ![Node](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=node)
+  ![Node.js](https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
