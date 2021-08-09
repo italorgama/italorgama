@@ -3,9 +3,9 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 &nbsp; Defensor da disseminação de conhecimento, do crescimento colaborativo e cooperativo para com outros profissionais.
 - 🎓 &nbsp; Bacharelado Ciência da Computação no <a href="https://www.ifsudestemg.edu.br/">IFSMG</a>.
-- 💼 &nbsp; Trabalhando como Desenvolvedor Back-end/Mobile na <a href="https://mereo.com/">MEREO</a>
+- 💼 &nbsp; Trabalhando como Desenvolvedor Back-end/Mobile na <a href="https://mereo.com/">Mereo</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
@@ -53,6 +53,6 @@
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: Ítalo Gama](https://img.shields.io/badge/-italo.gama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/italo-gama/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub SEU NOME]( https://img.shields.io/github/followers/VanessaSwerts?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+[![Linkedin: Ítalo Gama](https://img.shields.io/badge/-italo.gama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-gama/)](https://www.linkedin.com/in/italo-gama/)
+[![Gmail Badge](https://img.shields.io/badge/-itrgama@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:itrgama@gmail.com)](mailto:itrgama@gmail.com)
+[![GitHub ITALORGAMA]( https://img.shields.io/github/followers/italorgama?label=follow&style=social)](https://github.com/italorgama)
