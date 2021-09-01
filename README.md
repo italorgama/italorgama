@@ -56,12 +56,6 @@
 
 <br/> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=italorgama)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/> 
-
-
-
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: Ítalo Gama](https://img.shields.io/badge/-italo.gama-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/italo-gama/)](https://www.linkedin.com/in/italo-gama/)
