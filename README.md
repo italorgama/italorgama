@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Defensor da disseminação de conhecimento, do crescimento colaborativo e cooperativo para com outros profissionais.
 - 🎓 &nbsp; Bacharelado Ciência da Computação no <a href="https://www.ifsudestemg.edu.br/">IFSMG</a>.
-- 💼 &nbsp; Trabalhando como Engenheiro de Software na <a href="https://flashapp.com.br/">Mereo</a>
+- 💼 &nbsp; Trabalhando como Engenheiro de Software na <a href="https://flashapp.com.br/">Flash Benefícios</a>
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
